@@ -21,7 +21,8 @@ Bienvenue sur mon portfolio ! Ce projet a été réalisé avec **React**, **Vite
 
 ## 📂 Installation & Exécution  
 
-### 🔹 Prérequis  
+### 🔹 Prérequis  ![Uploading Screenshot 2025-02-19 135026.png…]()
+
 Avant de commencer, assure-toi d'avoir **Node.js** installé sur ton système.
 
 ### 🔹 Installation  
