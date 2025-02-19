@@ -36,10 +36,11 @@ npm install
 📱 Vue mobile
 
 
-<img width="202" alt="image" src="https://github.com/user-attachments/assets/3c4b0e95-fcb8-4a6c-a6fa-7090c7cbebe6" />
 
+![Screenshot 2025-02-19 135111](https://github.com/user-attachments/assets/b7801e7d-33d4-4fe3-9ce8-e9c1a3bb9eed)
 
 
 
 💻 Vue desktop
-<img width="942" alt="image" src="https://github.com/user-attachments/assets/9abaee81-af7f-4e84-8c56-b0cf3627f92c" />
+![Screenshot 2025-02-19 135229](https://github.com/user-attachments/assets/fb4319db-c0ef-4280-a208-ccaba6c0e520)
+
