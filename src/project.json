@@ -28,7 +28,7 @@
   {
     "id": 4,
     "image": "image/desktop-preview.jpg",
-    "image_res":"",
+    "image_res": "",
     "title": "ecommerce-product",
 
     "url": "https://github.com/The-WebJunior/ecommerce-product-page"
@@ -51,10 +51,18 @@
   },
   {
     "id": 7,
-    "image": "image/Produit-Sweat.png",
+    "image": "image/skincare.png",
 
-    "title": "Business Banking",
+    "title": "SkinCare Project",
 
-    "url": "https://github.com/The-WebJunior/Produit-Sweat"
+    "url": "https://github.com/The-WebJunior/SKincare-Project.git"
+  },
+  {
+    "id": 8,
+    "image": "image/porfolio.png",
+
+    "title": "Porfolio",
+
+    "url": "https://github.com/The-WebJunior/Porfolio.git"
   }
 ]

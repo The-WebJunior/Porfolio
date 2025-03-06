@@ -4,10 +4,10 @@ import { useNavigate } from "react-router-dom";
 import DownloadCV from "./DownloadCV";
 
 export default function Home() {
-  const [text, setText] = useState("")
+  const [text, setText] = useState("");
   const [isTyping, setIsTyping] = useState(true);
   const fullText = " Frontend Developer";
-  
+
   const navigate = useNavigate();
 
   const handleClick = () => {
@@ -53,20 +53,19 @@ export default function Home() {
 
         <div className=" flex flex-col gap-4  max-sm:text-center">
           <p className=" flex  gap-4 font-extrabold text-4xl max-sm:text-lg max-sm:pl-10  text-white   ">
-           <span> Hi ,it's</span>
+            <span> Hi ,it's</span>
             <span className="text-[#5de9e2d6] text-shadow-lg  transition-all duration-300">
               Hawa Alioune Fall
             </span>
           </p>
           <p className="font-semibold text-gray-200 text-sm sm:text-xl">
-          I'm a 
-          <span className="text-[#5de9e2d6]">{text}</span>
-            <span className="blinking-caret">|</span> 
+            I'm a<span className="text-[#5de9e2d6]">{text}</span>
+            <span className="blinking-caret">|</span>
           </p>
           <p className="text-white w-1/2 max-sm:w-full max-sm:text-center text-justify mb-10">
             I am a Frontend Developer, holding a Master's degree in Information
-            Systems , specialized in the design and development of
-            web applications.
+            Systems , specialized in the design and development of web
+            applications.
           </p>
           {/* Buttons */}
           <div className="flex  max-sm:justify-center    max-sm:flex-row gap-3   ">
