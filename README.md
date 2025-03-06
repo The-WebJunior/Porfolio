@@ -1,9 +1,47 @@
-# React + Vite
+# 📌 Portfolio - Hawa Alioune Fall
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue sur mon portfolio ! Ce projet a été réalisé avec **React**, **Vite** et **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 À propos de moi  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Porfolio" 
+👋 Salut, je suis **Hawa Alioune Fall**, développeuse Frontend passionnée.  
+🎓 J'ai un Master en **Systèmes d'Information** et je me spécialise dans la conception et le développement d'applications web.  
+💡 J'aime créer des interfaces modernes, réactives et performantes.
+
+---
+
+## 🛠️ Technologies utilisées  
+
+- ⚛️ **React** - Librairie JavaScript pour les interfaces utilisateur  
+- ⚡ **Vite** - Outil de build rapide pour React  
+- 🎨 **Tailwind CSS** - Framework CSS pour un design moderne  
+- ✅ **ESLint & Prettier** - Outils pour un code propre et maintenable  
+
+---
+
+## 📂 Installation & Exécution  
+
+### 🔹 Prérequis  ![Uploading Screenshot 2025-02-19 135026.png…]()
+
+Avant de commencer, assure-toi d'avoir **Node.js** installé sur ton système.
+
+### 🔹 Installation  
+Clone ce dépôt et installe les dépendances :
+
+```bash
+git clone https://github.com/ton-profil-github/portfolio.git
+cd portfolio
+npm install
+
+📸 Aperçu du projet
+📱 Vue mobile
+
+
+
+![Screenshot 2025-02-19 135111](https://github.com/user-attachments/assets/b7801e7d-33d4-4fe3-9ce8-e9c1a3bb9eed)
+
+
+
+💻 Vue desktop
+![Screenshot 2025-02-19 135229](https://github.com/user-attachments/assets/fb4319db-c0ef-4280-a208-ccaba6c0e520)
+
